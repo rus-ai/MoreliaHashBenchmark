@@ -2,8 +2,11 @@
     <string name="app_name">Morelia Hash Benchmark</string>
 
     <string-array name="algoList">
+        <item>blake2b</item>
         <item>blake2s</item>
-        <item>sha256</item>
+        <item>KECCAK_256</item>
+        <item>SHA3_256</item>
+        <item>ALL</item>
     </string-array>
 
 </resources>

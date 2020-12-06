@@ -20,7 +20,7 @@
             <TableRow
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:visibility="invisible">
+                android:visibility="visible">
 
                 <TextView
                     android:id="@+id/labelAlgo"
@@ -78,7 +78,7 @@
             android:layout_height="match_parent"
             android:ems="10"
             android:gravity="start|top"
-            android:inputType="textMultiLine" />
+            android:inputType="textMultiLine|textNoSuggestions" />
 
     </LinearLayout>
 
