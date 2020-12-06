@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Morelia Hash Benchmark</string>
+
+    <string-array name="algoList">
+        <item>blake2s</item>
+        <item>sha256</item>
+    </string-array>
+
+</resources>
